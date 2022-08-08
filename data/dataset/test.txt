@@ -1,0 +1,36 @@
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/8.jpg 194,267,241,281,0 43,226,64,236,0 368,238,385,244,0 159,218,169,222,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/13.jpg 115,117,278,155,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/29.jpg 158,217,238,242,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/32.jpg 95,93,300,199,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/36.jpg 189,129,245,154,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/47.jpg 94,114,287,160,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/48.jpg 282,238,424,285,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/55.jpg 222,119,425,178,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/57.jpg 211,181,245,203,0 47,117,59,125,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/79.jpg 107,73,232,104,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/82.jpg 185,142,249,174,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/83.jpg 143,195,311,248,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/85.jpg 102,149,123,157,0 283,158,306,166,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/92.jpg 142,105,309,188,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/97.jpg 153,102,292,148,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/119.jpg 188,141,287,191,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/120.jpg 147,159,225,203,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/122.jpg 235,206,391,289,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/147.jpg 134,163,222,210,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/167.jpg 177,139,312,180,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/184.jpg 123,185,229,213,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/191.jpg 139,123,266,164,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/194.jpg 164,83,328,131,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/201.jpg 26,132,208,227,0 263,124,282,144,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/208.jpg 84,106,171,141,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/239.jpg 87,44,537,256,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/242.jpg 4,89,391,193,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/268.jpg 204,129,290,183,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/291.jpg 186,182,295,236,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/298.jpg 140,98,324,166,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/305.jpg 219,252,355,325,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/308.jpg 137,98,316,163,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/338.jpg 3,366,259,442,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/341.jpg 108,125,425,314,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/343.jpg 80,62,185,93,0
+D:/ObjectDetection/Yolov3_using_Tensorflow/VOC2012/Images/347.jpg 44,95,190,151,0
